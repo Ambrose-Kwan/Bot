@@ -1,0 +1,27 @@
+[
+  {
+    "profile_id": "OFFLINE-001",
+    "profile_name": "Synthetic successful task",
+    "stock_available": true,
+    "step_delay_ms": 20
+  },
+  {
+    "profile_id": "OFFLINE-002",
+    "profile_name": "Synthetic no-stock task",
+    "stock_available": false,
+    "step_delay_ms": 20
+  },
+  {
+    "profile_id": "OFFLINE-003",
+    "profile_name": "Synthetic add-to-cart failure",
+    "stock_available": true,
+    "fail_at": "ATC",
+    "step_delay_ms": 20
+  },
+  {
+    "profile_id": "OFFLINE-004",
+    "profile_name": "Synthetic successful task",
+    "stock_available": true,
+    "step_delay_ms": 20
+  }
+]

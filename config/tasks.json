@@ -1,0 +1,6 @@
+{
+  "site_key": "vans",
+  "target_url_template": "https://www.vans.com/en-us/p/shoes/{sku}",
+  "buyers": [],
+  "proxy_pool": []
+}
